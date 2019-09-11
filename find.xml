@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Nap Project Scope" />
     <option name="defaultScopeName" value="Nap Project Scope" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Nap Project Scope" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
