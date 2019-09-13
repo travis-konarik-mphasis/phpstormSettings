@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Nap Project Scope" />
     <option name="defaultScopeName" value="Nap Project Scope" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Nap Project Scope" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
