@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/travis-konarik-mphasis/slack-client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-codecommit.us-west-2.amazonaws.com/v1/repos/Mphasis" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\travis\PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\kushwahah\Desktop" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
